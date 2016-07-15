@@ -13,3 +13,6 @@ Bauteilliste:
 
 1x Raspberry Pi (für Internetzugang, evtl. Austauschen durch Stromsparende Alternative)
 X Knöpfe
+
+Das ganze auf einer Holzplatte mit Abmaßen 75 x 55 cm, 5 cm hoch für Raum zum bestücken.
+Jeden Tag ein wenig..
