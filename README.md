@@ -24,6 +24,7 @@ Enthalten Boardentwurf für 7-Segment Anzeige, angesteuert durch 2 74-595 Shift-
 - SER
 - CLK
 - (optional) OE
+
 Version A (doppelshift2): Standartversion mit Lötanschlüssen für Kontaktierung
 Version B (doppelshift2Bus): Kontaktierung über Flachbandkabel (6-adrig) dank Wannenstecker.
 
