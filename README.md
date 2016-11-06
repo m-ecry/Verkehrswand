@@ -18,4 +18,14 @@ Das ganze auf einer Holzplatte mit Abmaßen 75 x 55 cm, 5 cm hoch für Raum zum 
 Jeden Tag ein wenig..
 Und noch ein wenig..
 
+SCHema und BoRDdateien, erstellt mit Eagle 7.7.0.
+Enthalten Boardentwurf für 7-Segment Anzeige, angesteuert durch 2 74-595 Shift-Register. Nötige Anschlusskontaktierung: 
+- Supply (1x GND, 1x VCC)
+- SER
+- CLK
+- (optional) OE
+Version A (doppelshift2): Standartversion mit Lötanschlüssen für Kontaktierung
+Version B (doppelshift2Bus): Kontaktierung über Flachbandkabel (6-adrig) dank Wannenstecker.
+
+
 Idee für anderes Projekt: Pilzmonitor, Zeitschloss mit DC-Motor (Schrittmotor geeigneter?)
